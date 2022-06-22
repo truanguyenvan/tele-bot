@@ -1,0 +1,8 @@
+{
+    "telegram": {
+        "domain" : "https://api.telegram.org",
+        "bot_token": "",
+        "default_chat_id": "",
+        "auto_remove_time": 10
+    }
+}
