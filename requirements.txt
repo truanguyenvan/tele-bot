@@ -1,0 +1,8 @@
+flask
+python-telegram-bot
+requests
+eventemitter
+schedule
+gunicorn
+waitress
+APScheduler
